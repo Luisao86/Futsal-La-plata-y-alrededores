@@ -1,0 +1,513 @@
+[
+    {
+        "Nombre": "Argentino Juvenil",
+        "Dirección": "A e/ y, Calle 21 & Calle 465, City Bell, Provincia de Buenos Aires",
+        "latLong": "-34.877395313397926, -58.05871783427308",
+        "Teléfono": "no tiene",
+        "Horario": "no tiene"
+    },
+    {
+        "Nombre": "Anfield F5",
+        "Dirección": "Calle Cantilo entre 17 y 19, B1896 City Bell, Provincia de Buenos Aires",
+        "latLong": "-34.8769544202695, -58.050433534337955",
+        "Teléfono": "02213140912",
+        "Horario": "L a V 10 am a 00 hs y sábado y domingo de 3 pm a 00hs"
+    },
+    {
+        "Nombre": "Club Banco Provincia La Plata",
+        "Dirección": "C. 476 s/n, B1896 City Bell, Provincia de Buenos Aires",
+        "latLong": "-34.88079984762819, -58.04763901559407",
+        "Teléfono": "02214803986",
+        "Horario": "L a S 7 a.m. – 9:30 p.m., D de 7am a 8:30 pm"
+    },
+    {
+        "Nombre": "El SanSiro Fútbol 5",
+        "Dirección": "C. 28 esquina 475, B1896 La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.88741913478073, -58.052331243332155",
+        "Teléfono": "02215668946",
+        "Horario": "todos los días de 5p.m. a 11 p.m."
+    },
+    {
+        "Nombre": "Athletic",
+        "Dirección": "Cno. Gral. Manuel Belgrano 3586, Gonnet, Provincia de Buenos Aires",
+        "latLong": "-34.888122360146106, -58.024695625163766",
+        "Teléfono": "0221153518809",
+        "Horario": "L a V de 3p.m. a 11 p.m., S y D 3p.m. a 9 p.m."
+    },
+    {
+        "Nombre": "Estadio Centenario Futbol 5",
+        "Dirección": "Cam. Parque Centenario 8893, Villa Elisa, Provincia de Buenos Aires",
+        "latLong": "-34.85882910601616, -58.06841257075596",
+        "Teléfono": "02215750924",
+        "Horario": "L a J de 1p.m. a 2a.m., V de 6p.m. a 11p.m., S y D 24hs"
+    },
+    {
+        "Nombre": "Las Palmeras",
+        "Dirección": "Calle 417 1120, Villa Elisa, Provincia de Buenos Aires",
+        "latLong": "-34.868235269481794, -58.10046013861199",
+        "Teléfono": "02215619187",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "La Esquina Futbol",
+        "Dirección": "Cam. Parque Centenario y 43, Villa Elisa, Provincia de Buenos Aires",
+        "latLong": "-34.85261225105041, -58.07986772307632",
+        "Teléfono": "No hay información",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "El refugio F5",
+        "Dirección": "419 Numero 230",
+        "latLong": "-34.85149758212355, -58.076840988023974",
+        "Teléfono": "No hay información",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Club Centenario",
+        "Dirección": "Camino Centenario entre 504 y 505, Gonnet, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.88307342276907, -58.00624670452499",
+        "Teléfono": "0221153557007",
+        "Horario": "L a L de 4p.m. a 11 p.m."
+    },
+    {
+        "Nombre": "GONT EVOLUTION",
+        "Dirección": "C. 502 1841, B1897 Gonnet, Provincia de Buenos Aires",
+        "latLong": "-34.88110941142599, -58.00964987016661",
+        "Teléfono": "0221155058883",
+        "Horario": "L a V de 7 a.m. – 10 p.m., S 9 a.m. a 1 p.m. - 5p.m. a 9 p.m."
+    },
+    {
+        "Nombre": "Gol Club Futbol 5",
+        "Dirección": "Camino 3 1249, Gonnet, Provincia de Buenos Aires",
+        "latLong": "-34.88587606705343, -57.97904365903895",
+        "Teléfono": "02214979731",
+        "Horario": "L a L de 10 a.m. a 00 hs"
+    },
+    {
+        "Nombre": "Estadio Azteca 86",
+        "Dirección": "Calle 517, Ringuelet, B1906CBS La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.8909353225521, -57.98981942570554",
+        "Teléfono": "0221156180101",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "La esquina del fútbol lp",
+        "Dirección": "Calle 12 y 517, Ringuelet, Provincia de Buenos Aires",
+        "latLong": "-34.89213553287112, -57.99154425327846",
+        "Teléfono": "02213041100",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Estadio511",
+        "Dirección": "Calle 511 15 y 16, Gonnet, Provincia de Buenos Aires",
+        "latLong": "-34.890797629115134, -58.00173327431824",
+        "Teléfono": "02215985668",
+        "Horario": "L a L de 5p.m. a 11p.m."
+    },
+    {
+        "Nombre": "Gonnet Camp",
+        "Dirección": "Calle 22 y 508 N° 2705, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.89359279984342, -58.01263484610472",
+        "Teléfono": "02216922049",
+        "Horario": "L a L de 9a.m. a 00hs"
+    },
+    {
+        "Nombre": "MOVE fútbol 5",
+        "Dirección": "Av. 32 372 1/2, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.896101059830094, -57.96402938684082",
+        "Teléfono": "02216835053",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "La Canchita",
+        "Dirección": "Av. 7 entre 33 y 34 , La Plata, Provincia de Buenos Aires",
+        "latLong": "",
+        "Teléfono": "02214255192",
+        "Horario": "L a L de 10 a.m. a 00 hs"
+    },
+    {
+        "Nombre": "Bahia 37",
+        "Dirección": "calle 37 entre 9 y 10",
+        "latLong": "-34.90733055524374, -57.96574406338624",
+        "Teléfono": "0221155626136",
+        "Horario": " L a L de 1p.m a 11p.m."
+    },
+    {
+        "Nombre": "Siempre al DIEZ",
+        "Dirección": "Calle 24 entre 34 y 35 , La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.91812354031364, -57.98274511371947",
+        "Teléfono": "02216383701",
+        "Horario": " L a L de 1p.m a 00hs"
+    },
+    {
+        "Nombre": "Complejo Las Palmas",
+        "Dirección": "Calle 22 entre 37 y 38, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.918823096578265, -57.97753429747869",
+        "Teléfono": "02214823805",
+        "Horario": " L a L de 1p.m a 11p.m."
+    },
+    {
+        "Nombre": "El Potrero",
+        "Dirección": "Calle 145 entre 523 y 525, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93012482429649, -58.01882912070856",
+        "Teléfono": "02216041637",
+        "Horario": "L a V de 5p.m a 00hs , S de 2p.m. a 00hs y D de 9a.m. a 00hs"
+    },
+    {
+        "Nombre": "BENEVENTO",
+        "Dirección": "Calle 155 esquina 531,La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.94457991896327, -58.0196379384713",
+        "Teléfono": "02216059494",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "La Rambla (2)",
+        "Dirección": "C. 145 y 31 La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93599419353809, -58.00717120619637",
+        "Teléfono": "No hay información",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Predio 44",
+        "Dirección": "Avenida 44 y 159, Lisandro Olmos, Provincia de Buenos Aires",
+        "latLong": "-34.95801496035005, -58.00983195715199",
+        "Teléfono": "02214080807",
+        "Horario": "L a V de 11a.m. a 00hs, S de 5p.m. a 2a.m."
+    },
+    {
+        "Nombre": "Challenger",
+        "Dirección": "Av. 137 entre 38 y 39, San Carlos, Provincia de Buenos Aires",
+        "latLong": "-34.9344177476007, -57.99284096475417",
+        "Teléfono": "02214633102",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Al Toque",
+        "Dirección": "Av. 44 entre 135 y 137,  La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93811575255139, -57.985479144301685",
+        "Teléfono": "02215759008",
+        "Horario": "L a V 24hs, S y D de 12am a 6p.m."
+    },
+    {
+        "Nombre": "El Desafío",
+        "Dirección": "Av. 32 y 135, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.9259932990998, -57.99755093090962",
+        "Teléfono": "02214792969",
+        "Horario": "L a V 10 am a 00 hs y sábado y domingo de 10a.m. a 11p.m."
+    },
+    {
+        "Nombre": "La Rambla",
+        "Dirección": "Bulevard 82 entre 36 y 37, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92642691137179, -57.98809334685073",
+        "Teléfono": "02214791018",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Puro Fútbol",
+        "Dirección": "Av. 137, San Carlos, Provincia de Buenos Aires",
+        "latLong": "-34.931236946041835, -57.99728016969317",
+        "Teléfono": "No hay información",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "Ateneo",
+        "Dirección": "Calle 39 entre 115 y 116, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.898387503462125, -57.953021104395326",
+        "Teléfono": "No hay información",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "El Deportivo",
+        "Dirección": "C. 42 entre 1 y 2, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.90380287378888, -57.95204381518438",
+        "Teléfono": "02214207342",
+        "Horario": "L a L de 10 a.m. a 00 hs"
+    },
+    {
+        "Nombre": "Las palmas fulbol",
+        "Dirección": "Calle 27 y 42, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92745850861353, -57.97808292073842",
+        "Teléfono": "02215238269",
+        "Horario": "L a L de 4p.m. a 11 p.m."
+    },
+    {
+        "Nombre": "El Calcio",
+        "Dirección": "Calle 3 entre 42 y 43, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.90556982860024, -57.953014878467236",
+        "Teléfono": "02214817976",
+        "Horario": "L a L de 10 a.m. a 00 hs"
+    },
+    {
+        "Nombre": "Predio Norte",
+        "Dirección": "C. 41 612, B1902AJZ La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.90843959209009, -57.95915878202228",
+        "Teléfono": "02215957475",
+        "Horario": " L a V de 9:30a.m. a 11:30p.m. , S de 10a.m. a 11:30p.m. , D de 1p.m. a 11:30p.m."
+    },
+    {
+        "Nombre": "El Bosque",
+        "Dirección": "Calle 131 entre 39 y 40, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92961764865717, -57.98573682713713",
+        "Teléfono": "02215477443",
+        "Horario": "L a V de 4p.m. a 11p.m., S y D de 1p.m. a 9p.m."
+    },
+    {
+        "Nombre": "Montego Sport",
+        "Dirección": "Av. 44 entre 147 y 148 ,San Carlos, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.94869364454547, -57.99702056563265",
+        "Teléfono": "01175527690",
+        "Horario": "01175527690"
+    },
+    {
+        "Nombre": "Héroes",
+        "Dirección": "Calle 60 entre 133 y 134, Los Hornos, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.94555514884569, -57.969351396575405",
+        "Teléfono": "02214505839",
+        "Horario": "L a L de 12a.m. a 11p.m."
+    },
+    {
+        "Nombre": "Club 12 de Octubre",
+        "Dirección": "Calle 47 entre 26 y 27, La Plata",
+        "latLong": "-34.93176438334577, -57.971432789474974",
+        "Teléfono": "No hay información",
+        "Horario": "D de 9a.m. a 5p.m."
+    },
+    {
+        "Nombre": "ESTADIO 55",
+        "Dirección": "55 entre 11 y 12, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92146048597126, -57.95108028222126",
+        "Teléfono": "02215373600",
+        "Horario": "L a L de 10 a.m. a 2a.m."
+    },
+    {
+        "Nombre": "Estadio 7",
+        "Dirección": "Av. 7 entre 58 y 59,La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.919721351844736, -57.94309036867758",
+        "Teléfono": "02214343655",
+        "Horario": "L a V 10 am a 2a.m.,  S de 10a.m. a 11p.m., D de 12:30a.m. a 11p.m."
+    },
+    {
+        "Nombre": "ESKUERNAGA",
+        "Dirección": "Calle 120 entre 64 y, 65, Provincia de Buenos Aires",
+        "latLong": "-34.91247147330918, -57.9234020422847",
+        "Teléfono": "02215583123",
+        "Horario": "No hay información"
+    },
+    {
+        "Nombre": "El Templo",
+        "Dirección": "Av 66 entre 120 y 121, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.913753006246026, -57.92174819996748",
+        "Teléfono": "02214114783",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "Complejo La Villa",
+        "Dirección": "Calle 120 y 68, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.91575106930343, -57.91946715827856",
+        "Teléfono": "02213198190",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "Tuto ",
+        "Dirección": "Av. 66 entre 117 y 118, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.916331707992086, -57.92519635610406",
+        "Teléfono": "No hay información",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "Complejo 62",
+        "Dirección": "Calle 62 entre 1 y 115, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.91600980643737, -57.93240085349226",
+        "Teléfono": "02214224380",
+        "Horario": "L a L de 12a.m. a 00hs"
+    },
+    {
+        "Nombre": "Mega Estadio",
+        "Dirección": "Av. 1 entre 62 y 63, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.917223860638664, -57.93225064980395",
+        "Teléfono": "02215061161",
+        "Horario": "L de 12p.m. a 00hs, Ma a J de 12:30 a 00hs,V de 10a.m. a 00hs, S y D de 12:30 a 00hs"
+    },
+    {
+        "Nombre": "Garra Charrúa",
+        "Dirección": "Calle 64 entre 7 y 8 ,La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92452540220208, -57.93787255916027",
+        "Teléfono": "02213050990",
+        "Horario": "L a S de 10a.m. a 00hs, D de 11a.m. a 00hs"
+    },
+    {
+        "Nombre": "Camp Nou",
+        "Dirección": "69 entre 12 y 13, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93291697393442, -57.936628014604636",
+        "Teléfono": "0221153606778",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "La cueva del oso",
+        "Dirección": "Calle 64 entre 25 y 26, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.941624301234384, -57.95613303786926",
+        "Teléfono": "02215546016",
+        "Horario": "L a V de 5p.m a 00hs , S de 3p.m. a 9p.m."
+    },
+    {
+        "Nombre": "Ilquattro Complejo Deportivo",
+        "Dirección": "Calle 61 entre 26 y 27,  La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93961795995468, -57.96025559411195",
+        "Teléfono": "02215062412",
+        "Horario": "L a V de 4p.m. a 00hs, S y D de 12p.m. a 9:30p.m."
+    },
+    {
+        "Nombre": "córner 66",
+        "Dirección": "Av. 66 y 27, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.94466615077054, -57.95555636443486",
+        "Teléfono": "02214380642",
+        "Horario": "L a V de 1p.m. a 00hs, S de 12p.m. a 00hs, D 12p.m. a 9p.m."
+    },
+    {
+        "Nombre": "Boulevard 81",
+        "Dirección": "Calle 131 y 68, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.95027684157187, -57.958109826418486",
+        "Teléfono": "02213041144",
+        "Horario": "L a V de 12p.m. a 1a.m., S de 1p.m. a 1a.m., D 4p.m. a 11p.m."
+    },
+    {
+        "Nombre": "Predio Deportivo",
+        "Dirección": "Av. 66 entre 135 y 136, Los Hornos, Provincia de Buenos Aires",
+        "latLong": "-34.9527874573449, -57.96407103644035",
+        "Teléfono": "02216613110",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "Complejo Deportivo Retro",
+        "Dirección": "Av. 66 y 139, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.956586188256246, -57.968083606157876",
+        "Teléfono": "02216417199",
+        "Horario": "L a V 2p.m. a 00 hs, S de 10a.m. a 9p.m., D de 3p.m. a 10p.m."
+    },
+    {
+        "Nombre": "Monumental",
+        "Dirección": "Av 66 entre 158 y 159, Los Hornos, Provincia de Buenos Aires",
+        "latLong": "-34.974601472917996, -57.98842217524988",
+        "Teléfono": "02215452542",
+        "Horario": "L a L de 10:30 a.m. a 1:30a.m."
+    },
+    {
+        "Nombre": "Pura Gambeta",
+        "Dirección": "Calle 68 y 161, Los Hornos, Provincia de Buenos Aires",
+        "latLong": "-34.97830233431442, -57.98806492935362",
+        "Teléfono": "02213046903",
+        "Horario": "L a V 3p.m. a 10p.m., S de 2p.m. a 7p.m."
+    },
+    {
+        "Nombre": "Aire Libre",
+        "Dirección": "Calle 137 entre 74 y 76, Altos de San Lorenzo, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.96215028097665, -57.95636656870496",
+        "Teléfono": "02214502125",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "La Caldera del Diablo",
+        "Dirección": "Calle 77 entre 17 y 18, Altos de San Lorenzo, Provincia de Buenos Aires",
+        "latLong": "-34.94462413993555, -57.933728722715976",
+        "Teléfono": "02214530955",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "Córner 72 ",
+        "Dirección": "Av. 72 entre 23 y 24 ,La plata, Provincia de Buenos Aires",
+        "latLong": "-34.947163747123426, -57.94446506487052",
+        "Teléfono": "02214380642",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "La Cantera",
+        "Dirección": "Calle 78 Bis y 10, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.93873117389669, -57.92441329193957",
+        "Teléfono": "02215772140",
+        "Horario": "L a V de 6p.m. a 00hs"
+    },
+    {
+        "Nombre": "a2toques",
+        "Dirección": "Calle 10 y 82, Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.94145001671005, -57.92063820811918",
+        "Teléfono": "0221156159225",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "El Potrero",
+        "Dirección": "Calle 85 y 8 bis, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.9427933929652, -57.91568228822686",
+        "Teléfono": "02216029284",
+        "Horario": "L a L 24hs"
+    },
+    {
+        "Nombre": "Minuto 60",
+        "Dirección": "Avenida 7 entre 86 y 88, Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.942630558927384, -57.91247713762002",
+        "Teléfono": "02216019900",
+        "Horario": "L a V 10 am a 11p.m. ,S 10a.m. a 00hs."
+    },
+    {
+        "Nombre": "La Rambla (3)",
+        "Dirección": "Calle 74 entre 118 y 119 ,Villa Elvira, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.92281742337518, -57.914960149672964",
+        "Teléfono": "02215915966",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "Nápoles",
+        "Dirección": "Calle 80 entre 117 y 118, Villa Elvira, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.928146724717585, -57.90980542601675",
+        "Teléfono": "02214524977",
+        "Horario": "L a V de 6p.m. a 00hs, S y D de 6p.m. a 10p.m."
+    },
+    {
+        "Nombre": "La Industry F5",
+        "Dirección": "Ruta Provincial 11 y 97 , Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.932911428051135, -57.88660516671218",
+        "Teléfono": "No hay información",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "La Redonda",
+        "Dirección": "Calle 609 entre 122 y 123, Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.94221102745212, -57.877935412936424",
+        "Teléfono": "0221154289538",
+        "Horario": "L a L de 4p.m. a 00hs"
+    },
+    {
+        "Nombre": "Complejo cancha fútbol 5 Dario",
+        "Dirección": "Calle 96 y 116 , Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.94028187751852, -57.89713868603532",
+        "Teléfono": "02215079649",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "El Centenario",
+        "Dirección": "Calle 96 entre 5 y 6 , Villa Elvira, Provincia de Buenos Aires",
+        "latLong": "-34.94617555506316, -57.90309194361878",
+        "Teléfono": "No hay información",
+        "Horario": "no hay información"
+    },
+    {
+        "Nombre": "LOS PINOS",
+        "Dirección": "Calle 14 entre 97 y 98, La Plata, Provincia de Buenos Aires",
+        "latLong": "-34.954418975611624, -57.911397950392896",
+        "Teléfono": "02213511208",
+        "Horario": "L a L de 6p.m. a 00 hs"
+    },
+    {
+        "Nombre": "",
+        "Dirección": "",
+        "latLong": "",
+        "Teléfono": "",
+        "Horario": ""
+    },
+    {
+        "Nombre": "",
+        "Dirección": "",
+        "latLong": "",
+        "Teléfono": "",
+        "Horario": ""
+    }
+]

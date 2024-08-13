@@ -41,7 +41,7 @@
         "City Bell":[
             {
                 "Nombre": "Argentino Juvenil",
-                "Dirección": "A e/ y, Calle 21 & Calle 465, City Bell, Provincia de Buenos Aires",
+                "Dirección": "21 A entre 464 y 465, City Bell, Provincia de Buenos Aires",
                 "latLong": [-34.877395313397926, -58.05871783427308],
                 "Teléfono": "no tiene",
                 "Horario": "no tiene"
@@ -103,6 +103,15 @@
                 "latLong": [-34.89359279984342, -58.01263484610472],
                 "Teléfono": "02216922049",
                 "Horario": "L a L de 9a.m. a 00hs"
+            }
+        ],
+        "Gorina":[
+            {
+                "Nombre": "San Mateo",
+                "Dirección": "C. 487 entre 134 y 135, Gorina, Provincia de Buenos Aires",
+                "latLong": [-34.9011249954383, -58.039930274944965],
+                "Teléfono": "No hay información",
+                "Horario": "No hay información"
             }
         ],
         "Ringuelet":[

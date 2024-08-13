@@ -1,5 +1,5 @@
 [{
-    "La plata":[
+    "La plata":
         { 
         "Villa Elisa":[ 
             {
@@ -516,7 +516,7 @@
                 "Horario": "L a L de 6p.m. a 00 hs"
             }
         ]
-    }],
+    },
     "Ensenada":{
         "Todo Ensenada":[
             {

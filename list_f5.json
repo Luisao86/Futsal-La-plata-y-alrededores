@@ -1,4 +1,4 @@
-    "La plata":{ 
+{"La plata":{ 
         "Villa Elisa":[ 
             {
                 "Nombre": "Athletic",
@@ -534,14 +534,14 @@
             {
                 "Nombre": "Club Pettirossi",
                 "Dirección": "San Martín entre Liniers y Arias de Saavedra, Ensenada, Buenos Aires",
-                "latLong": [],
-                "Teléfono": "",
-                "Horario": ""
+                "latLong": [-34.85084520084931, -57.91782218530821],
+                "Teléfono": "02214692779",
+                "Horario": "No hay información"
             }
         ]
     },
     "Berisso":{
-        "Todo Ensenada":[
+        "Todo Berisso":[
             {
                 "Nombre": "Tiro Federal",
                 "Dirección": "Av. del Petroleo Argentino 1455, Berisso, Provincia de Buenos Aires",
@@ -607,3 +607,4 @@
             }
         ]
     }
+}

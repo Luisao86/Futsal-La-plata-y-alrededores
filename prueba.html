@@ -3,53 +3,90 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mapa de Canchas de Fútbol</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <style>
-        #map {
-            height: 100vh;
-            width: 100%;
-        }
-    </style>
+    <title>Página de Canchas de Fútbol 5 en La Plata</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Righteous&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id="map"></div>
+    <section class="parallax">
+        <div class="content">
+        
+    <header>
+        <nav>
+            <div class="logo"><img class="logo_image" src="img/logo.png" alt="logo_image"></div>
+            <ul class="nav-links">
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#map">Canchas</a></li>
+                <li><a href="#news">Noticias</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero new-amsterdam-regular">
+            <h1>Encuentra las Mejores Canchas de Fútbol 5 en La Plata</h1>
+            <p>Explora y elige la cancha perfecta para tus partidos</p>
+            <a href="#" class="cta-button">Ver Canchas</a>
+        </section>
 
-    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-    <script>
-        // Inicializar el mapa centrado en una ubicación aproximada
-        const map = L.map('map').setView([-34.901245911385935, -57.98964996061926], 12);
-        const url="https://raw.githubusercontent.com/Luisao86/Futsal-La-plata-y-alrededores/main/list_f5.json";
-        // Cargar una capa de mapa (puedes cambiar el estilo si lo deseas)
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: 'Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+        <section class="map">
+            <h2>Canchas en La Plata</h2>
+            <div id="map"></div>
+        </section>
 
-        // Cargar el archivo JSON desde GitHub
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                console.log(data);
-                // Recorrer los barrios y canchas
-                for (let ciudad in data) {
-                    let barrios = data[ciudad];
-                    for (let barrio in barrios) {
-                        let canchas = barrios[barrio];
-                        canchas.forEach(function(cancha) {
-                            // Verificar si cancha.latLong es una lista con al menos dos elementos
-                            if (Array.isArray(cancha.latLong) && cancha.latLong.length >= 2) {
-                                // Agregar un marcador para cada cancha
-                                L.marker([cancha.latLong[0], cancha.latLong[1]])
-                                    .addTo(map)
-                                    .bindPopup(`<b>${cancha.Nombre}</b><br>${cancha.Dirección}<br>Tel: ${cancha.Teléfono}<br>Horario: ${cancha.Horario}`);
-                            } else {
-                                console.warn('LatLong no es válido para:', cancha);
-                            }
-                        });
-                    }
-                }
-            })
-            .catch(error => console.error('Error al cargar el JSON:', error));
-    </script>
+        <section class="news" id="news">
+            <h2>Últimas Noticias</h2>
+            <article class="news-item">
+                <h3>Noticia 1</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lacinia felis at nunc lacinia, vel venenatis tortor aliquet.</p>
+                <a href="#">Leer Más</a>
+            </article>
+            <article class="news-item">
+                <h3>Noticia 2</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lacinia felis at nunc lacinia, vel venenatis tortor aliquet.</p>
+                <a href="#">Leer Más</a>
+            </article>
+        </section>
+
+        <section class="contact" id="contact">
+            <h2>Contacto</h2>
+            <form action="#" method="post">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Mensaje:</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+
+                <button type="submit" class="cta-button">Enviar Mensaje</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Canchas LP. Todos los derechos reservados.</p>
+    </footer>
+        </div>
+    </section>
+     <!-- Modal al iniciar la página -->
+     <div id="inicioModal" class="modal">
+        <div class="modal-content">
+            <div class="card">
+                <img src="img/card_modal.webp" alt="Cancha de fútbol" class="card-img">
+                <div class="card-text">
+                    <h2 style="color:#39FF14;">Encuentra las Mejores Canchas de Fútbol 5 en La Plata</h2>
+                    <p style="color:#39FF14;">Explora y elige la cancha perfecta para tus partidos</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="scripts.js"> </script>
 </body>
 </html>

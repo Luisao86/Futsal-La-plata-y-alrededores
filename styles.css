@@ -1,0 +1,215 @@
+/* Estilos generales */
+.new-amsterdam-regular {
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212; /* Color de fondo oscuro */
+    color: #E0E0E0; /* Color del texto claro */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1F1F1F; /* Fondo oscuro para el header */
+    padding: 10px 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+.logo { 
+    color: #00FF00; /* Verde fluorescente */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo_image{
+    max-height: 100px;
+    max-width: 100px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: #E0E0E0; /* Color del texto claro */
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-links a:hover {
+    color: #00FF00; /* Verde fluorescente en hover */
+}
+
+/* Sección hero */
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: #1F1F1F; /* Fondo oscuro */
+}
+
+.hero h1 {
+    color: #00FF00; /* Verde fluorescente */
+    font-size: 36px;
+}
+
+.hero p {
+    color: #E0E0E0; /* Color del texto claro */
+    font-size: 18px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00FF00; /* Verde fluorescente */
+    color: #121212; /* Color del texto oscuro */
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.cta-button:hover {
+    background-color: #00CC00; /* Verde más oscuro en hover */
+}
+
+/* Mapa */
+.map {
+    padding: 20px;
+}
+
+#map {
+    height: 100vh;
+    width: 100%;
+    background-color: #1F1F1F; /* Fondo oscuro para el mapa */
+}
+
+/* Noticias */
+.news {
+    padding: 20px;
+}
+
+.news-item {
+    background-color: #1F1F1F;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.news-item h3 {
+    color: #00FF00; /* Verde fluorescente */
+}
+
+.news-item a {
+    color: #00FF00; /* Verde fluorescente */
+    text-decoration: none;
+}
+
+.news-item a:hover {
+    text-decoration: underline;
+}
+
+/* Formulario de contacto */
+.contact {
+    padding: 20px;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact label {
+    margin-bottom: 5px;
+}
+
+.contact input, .contact textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: #1F1F1F;
+    color: #E0E0E0;
+}
+
+.contact button {
+    padding: 10px 20px;
+    background-color: #00FF00; /* Verde fluorescente */
+    color: #121212; /* Color del texto oscuro */
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.contact button:hover {
+    background-color: #00CC00; /* Verde más oscuro en hover */
+}
+
+/* Footer */
+footer {
+    background-color: #1F1F1F; /* Fondo oscuro */
+    padding: 10px 20px;
+    text-align: center;
+    color: #E0E0E0; /* Color del texto claro */
+}
+.modal {
+    display: none; /* Ocultar por defecto */
+    position: fixed;
+    z-index: 1000; /* Asegura que el modal esté sobre otros elementos */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo oscuro semi-transparente */
+}
+
+.modal-content {
+    position: relative;
+    margin: 0% auto;
+    padding: 20px;
+    width: 80%;
+    max-width: 600px;
+    background-color:  #1F1F1F;
+    border-radius: 8px;
+    color: #E0E0E0;
+    text-align: center;
+}
+
+.card {
+    text-align: center;
+}
+
+.card-img {
+    width: 100%;
+    height: 75vh;
+    border-radius: 8px 8px 0 0;
+}
+
+.card-text {
+    padding: 20px;
+}
+
+/* Botón para cerrar el modal */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #E0E0E0;
+    font-size: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
